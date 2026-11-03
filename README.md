@@ -1,5 +1,5 @@
 # FeatherScript
-# FeatherScript
+
 
 **A better way to build with AI in Roblox Studio.**
 
